@@ -1,1 +1,2 @@
-conflicto
+CONFLICTO UNO 
+NUEVO CONFLICTO
